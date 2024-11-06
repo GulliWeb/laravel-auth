@@ -1,0 +1,10 @@
+// importo le Variables
+@import 'variables';
+
+// importo Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+body {
+    background-color: $body-bg;
+    color: $text-color;
+}
